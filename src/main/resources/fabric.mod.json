@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "SpinSense",
+  "version": "1.0.0",
+  "name": "SpinSense",
+  "description": "A Fabric mod for spinning with ease.",
+  "contact": {
+    "homepage": "https://yourwebsite.com",
+    "sources": "https://github.com/yourusername/spinsense-mod"
+  },
+  "license": "MIT",
+  "icon": "icon.png",
+  "environment": "*"
+}
